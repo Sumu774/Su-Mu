@@ -72,7 +72,7 @@ https://www.facebook.com/profile.php?id=61558108857573&mibextid=ZbWKwL
 
 🔵𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐔𝐌𝐁𝐄𝐑: It's my personal 
 
-🟢𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐄𝐌𝐀𝐈𝐋: sumubbz70@gmail.com`, attachment: fs.createReadStream(__dirname + "/Nayan/join/received_371034495743341.mp4")}, threadID));
+🟢𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐄𝐌𝐀𝐈𝐋: sumubbz70@gmail.com`, attachment: fs.createReadStream(__dirname + "/Nayan/join/Sexy Logo Editor By Munna Editz 🫶🐸🥹 [FC9FC2B].png")}, threadID));
 })
 .catch(error => {
     console.error(error);
