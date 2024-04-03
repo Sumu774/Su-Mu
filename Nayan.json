@@ -6,7 +6,7 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "MAHABUB-BOT",
+  "BOTNAME": "Su Mu-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
@@ -14,7 +14,7 @@
   ],
   "ADMINBOT": [
     "100014754734049",
-    "100000959749712"
+    "61558108857573"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
