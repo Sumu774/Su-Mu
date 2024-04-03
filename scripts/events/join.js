@@ -54,7 +54,7 @@ let gifPath = __dirname + '/Nayan/join/join.gif';
 axios.get(gifUrl, { responseType: 'arraybuffer' })
 .then(response => {
     fs.writeFileSync(gifPath, response.data);
-    return api.sendMessage("চলে এসেছি আমি পিচ্চি তোমাদের মাঝে🤭!", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
+    return api.sendMessage("চলে এসেছি আমি পিচ্চি সুমু তোমাদের মাঝে🤭!", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
 <------------------------------>  
 𝐁𝐎𝐓 𝐂𝐎𝐍𝐍𝐄𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋 !!! 
 
@@ -64,15 +64,15 @@ axios.get(gifUrl, { responseType: 'arraybuffer' })
 <------------------------------>
 𝐀𝐍𝐃 𝐅𝐎𝐑 𝐀𝐍𝐘 𝐂𝐎𝐌𝐏𝐋𝐀𝐈𝐍𝐓𝐒 𝐎𝐑 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐁𝐎𝐓 𝐎𝐏𝐄𝐑𝐀𝐓𝐎𝐑 
 
-DEVELOPER :Mohammad Nayan 
+DEVELOPER : Sumaiya Quéeñ 
 
 🟣𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐋𝐈𝐍𝐊: 
 
-https://www.facebook.com/www.xnxx.com140
+https://www.facebook.com/profile.php?id=61558108857573&mibextid=ZbWKwL
 
-🔵𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐔𝐌𝐁𝐄𝐑: wa.me/+8801312737981
+🔵𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐔𝐌𝐁𝐄𝐑: It's my personal 
 
-🟢𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐄𝐌𝐀𝐈𝐋: mahaburpk479@gmail.com`, attachment: fs.createReadStream(__dirname + "/Nayan/join/received_371034495743341.mp4")}, threadID));
+🟢𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐄𝐌𝐀𝐈𝐋: sumubbz70@gmail.com`, attachment: fs.createReadStream(__dirname + "/Nayan/join/received_371034495743341.mp4")}, threadID));
 })
 .catch(error => {
     console.error(error);
